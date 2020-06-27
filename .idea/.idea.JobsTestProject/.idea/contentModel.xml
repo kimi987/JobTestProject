@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\admin\AppData\local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\admin\AppData\local\JetBrains\Rider2020.1\resharper-host\local\Transient\ReSharperHost\v201\SolutionCaches\_JobsTestProject.-632449354.00" t="ExcludeRecursive" />
+    <e p="F:\work\ECS-anglyBots\JobsTestProject" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="DotsPhysics" t="Include">
+            <e p="BallJumpSystem.cs" t="Include" />
+            <e p="RaCastTest.cs" t="Include" />
+            <e p="TriggerTest.cs" t="Include" />
+          </e>
+          <e p="Grid" t="Include">
+            <e p="Grid.cs" t="Include" />
+            <e p="GridNode.cs" t="Include" />
+            <e p="PathFindingSetup.cs" t="Include" />
+            <e p="PathFindingVisual.cs" t="Include" />
+          </e>
+          <e p="Jobs" t="Include">
+            <e p="Testing.cs" t="Include" />
+          </e>
+          <e p="PathFind" t="Include">
+            <e p="MonkeyPrefab.cs" t="Include" />
+            <e p="PathComponent.cs" t="Include" />
+            <e p="Pathfinding.cs" t="Include" />
+            <e p="PathFindingJobs.cs" t="Include" />
+            <e p="PathFindingParam.cs" t="Include" />
+            <e p="PathFollow.cs" t="Include" />
+            <e p="PathFollowSystem.cs" t="Include" />
+            <e p="PathPosition.cs" t="Include" />
+            <e p="PathPositionAuthoring.cs" t="Include" />
+            <e p="SpawnMonkeySystem.cs" t="Include" />
+            <e p="UnityMoveOrderSystem.cs" t="Include" />
+          </e>
+          <e p="Utils" t="Include">
+            <e p="MeshUtils.cs" t="Include" />
+            <e p="Utils.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="JobsTestProject.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

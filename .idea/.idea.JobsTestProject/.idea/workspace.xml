@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab142620-ccb8-471a-85b9-a810e9cc4c54" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/Addons/RenderPipelines/LightweightAsset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/Addons/RenderPipelines/LightweightAsset.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/EntityCache/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/Prefabs/Bullet.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/Prefabs/Bullet.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/Scripts/EnemySpawner.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/Scripts/EnemySpawner.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Dark_Active.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Dark_Active.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Dark_Active_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Dark_Active_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Dark_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Dark_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Dark_Normal_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Dark_Normal_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Dark_OnActive.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Dark_OnActive.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Dark_OnActive_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Dark_OnActive_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Dark_OnNormal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Dark_OnNormal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Dark_OnNormal_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Dark_OnNormal_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Light_Active.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Light_Active.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Light_Active_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Light_Active_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Light_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Light_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Light_Normal_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Light_Normal_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Light_OnActive.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Light_OnActive.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Light_OnActive_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Light_OnActive_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Light_OnNormal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Light_OnNormal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Light_OnNormal_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_Light_OnNormal_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_White.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/AllCorners_White.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/DropDownMenu_Dark_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/DropDownMenu_Dark_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/DropDownMenu_Light_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/DropDownMenu_Light_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/HeaderBacking_Dark.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/HeaderBacking_Dark.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/HeaderBacking_Light.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/HeaderBacking_Light.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/InputField_Dark_Focused.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/InputField_Dark_Focused.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/InputField_Dark_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/InputField_Dark_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/InputField_Light_Focused.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/InputField_Light_Focused.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/InputField_Light_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/InputField_Light_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Dark_Active.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Dark_Active.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Dark_Active_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Dark_Active_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Dark_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Dark_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Dark_Normal_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Dark_Normal_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Dark_OnActive.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Dark_OnActive.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Dark_OnActive_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Dark_OnActive_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Dark_OnNormal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Dark_OnNormal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Dark_OnNormal_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Dark_OnNormal_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Light_Active.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Light_Active.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Light_Active_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Light_Active_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Light_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Light_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Light_Normal_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Light_Normal_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Light_OnActive.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Light_OnActive.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Light_OnActive_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Light_OnActive_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Light_OnNormal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Light_OnNormal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Light_OnNormal_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_Light_OnNormal_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_White.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/LeftCorners_White.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Dark_Active.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Dark_Active.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Dark_Active_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Dark_Active_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Dark_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Dark_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Dark_Normal_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Dark_Normal_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Dark_OnActive.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Dark_OnActive.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Dark_OnActive_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Dark_OnActive_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Dark_OnNormal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Dark_OnNormal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Dark_OnNormal_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Dark_OnNormal_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Light_Active.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Light_Active.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Light_Active_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Light_Active_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Light_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Light_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Light_Normal_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Light_Normal_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Light_OnActive.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Light_OnActive.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Light_OnActive_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Light_OnActive_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Light_OnNormal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Light_OnNormal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Light_OnNormal_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_Light_OnNormal_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_White.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/NoCorners_White.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Dark_Active.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Dark_Active.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Dark_Active_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Dark_Active_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Dark_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Dark_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Dark_Normal_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Dark_Normal_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Dark_OnActive.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Dark_OnActive.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Dark_OnActive_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Dark_OnActive_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Dark_OnNormal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Dark_OnNormal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Dark_OnNormal_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Dark_OnNormal_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Light_Active.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Light_Active.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Light_Active_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Light_Active_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Light_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Light_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Light_Normal_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Light_Normal_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Light_OnActive.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Light_OnActive.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Light_OnActive_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Light_OnActive_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Light_OnNormal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Light_OnNormal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Light_OnNormal_Underline.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_Light_OnNormal_Underline.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_White.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/RightCorners_White.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/SliderThumb_Dark_Active.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/SliderThumb_Dark_Active.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/SliderThumb_Dark_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/SliderThumb_Dark_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/SliderThumb_Light_Active.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/SliderThumb_Light_Active.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/SliderThumb_Light_Normal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/SliderThumb_Light_Normal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/SliderTray_Dark.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/SliderTray_Dark.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/SliderTray_Light.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/SliderTray_Light.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/ToggleBox_Dark_OffActive.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/ToggleBox_Dark_OffActive.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/ToggleBox_Dark_OffFocused.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/ToggleBox_Dark_OffFocused.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/ToggleBox_Dark_OffNormal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/ToggleBox_Dark_OffNormal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/ToggleBox_Dark_OnActive.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/ToggleBox_Dark_OnActive.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/ToggleBox_Dark_OnFocused.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/ToggleBox_Dark_OnFocused.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/ToggleBox_Dark_OnNormal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/ToggleBox_Dark_OnNormal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/ToggleBox_Light_OffActive.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/ToggleBox_Light_OffActive.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/ToggleBox_Light_OffFocused.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/ToggleBox_Light_OffFocused.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/ToggleBox_Light_OffNormal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/ToggleBox_Light_OffNormal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/ToggleBox_Light_OnActive.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/ToggleBox_Light_OnActive.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/ToggleBox_Light_OnFocused.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/ToggleBox_Light_OnFocused.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/ToggleBox_Light_OnNormal.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/Icons/StyleSprites/ToggleBox_Light_OnNormal.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/UI-EnemySpiderRobot.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/UI-EnemySpiderRobot.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/UI-Hexagon.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Assets/UI/UI-Hexagon.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Logs/Packages-Update.log" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Logs/Packages-Update.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AngryDOTS/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../AngryDOTS/ProjectSettings/QualitySettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PathFind/PathPositionAuthoring.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.collections@0.8.0-preview.5/Unity.Collections/CollectionHelper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PathFind/PathFollowSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PathFind/PathFindingParam.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Utils/Utils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PathFind/PathFollow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.physics@0.3.2-preview/Unity.Physics/Collision/Filter/CollisionFilter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Utils/MeshUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Grid/PathFindingSetup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PathFind/PathComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PathFind/UnityMoveOrderSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.physics@0.3.2-preview/Unity.Physics/ECS/Systems/BuildPhysicsWorld.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Jobs/Testing.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PathFind/PathFindingJobs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PathFind/Pathfinding.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.10.0-preview.6/Unity.Entities/ComponentSystemBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.10.0-preview.6/Unity.Entities/ComponentSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PathFind/SpawnMonkeySystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Grid/GridNode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PathFind/MonkeyPrefab.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DotsPhysics/TriggerTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.entities@0.10.0-preview.6/Unity.Entities/IComponentData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DotsPhysics/BallJumpSystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DotsPhysics/RaCastTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Grid/Grid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Grid/PathFindingVisual.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PathFind/PathPosition.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Jobs/Testing.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DotsPhysics/BallJumpSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DotsPhysics/RaCastTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DotsPhysics/TriggerTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Grid/Grid.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Grid/GridNode.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utils/MeshUtils.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Grid/PathFindingVisual.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Utils/Utils.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PathFind/PathFindingParam.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PathFind/PathFollow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PathFind/PathComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PathFind/PathPositionAuthoring.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Grid/PathFindingSetup.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PathFind/PathFindingJobs.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PathFind/SpawMonkey.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PathFind/UnityMoveOrderSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PathFind/PathFollowSystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PathFind/Pathfinding.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PathFind/SpawnMonkeySystem.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PathFind/PathPosition.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bsVBsLWaTwkI2Ab9gVmn08LRzW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab142620-ccb8-471a-85b9-a810e9cc4c54" name="Default Changelist" comment="" />
+      <created>1589179835560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589179835560</updated>
+      <workItem from="1589179838912" duration="5956000" />
+      <workItem from="1589252877968" duration="1434000" />
+      <workItem from="1589263790762" duration="14714000" />
+      <workItem from="1589420660672" duration="5833000" />
+      <workItem from="1589548885120" duration="43362000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="526" y="200" key="SettingsEditor" timestamp="1589618694141">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="526" y="200" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1589618694141" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1589720897508">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1589720897508" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
